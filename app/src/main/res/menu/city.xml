@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dammam"
+        android:title="Dammam" />
+
+    <item
+        android:id="@+id/khobar"
+        android:title="Khobar" />
+    <item
+        android:id="@+id/qatif"
+        android:title="Qatif" />
+
+    <item
+        android:id="@+id/jubail"
+        android:title="Jubail" />
+
+    <item
+        android:id="@+id/hofuf"
+        android:title="Hofuf" />
+
+    <item
+        android:id="@+id/riyadh"
+        android:title="Riyadh" />
+
+    <item
+        android:id="@+id/makkah"
+        android:title="Makkah" />
+    <item
+        android:id="@+id/madinah"
+        android:title="Madinah" />
+
+    <item
+        android:id="@+id/jeddah"
+        android:title="Jeddah" />
+
+</menu>

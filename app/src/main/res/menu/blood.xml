@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Ap"
+        android:title="A+" />
+
+    <item
+        android:id="@+id/Am"
+        android:title="A-" />
+    <item
+        android:id="@+id/Bp"
+        android:title="B+" />
+
+    <item
+        android:id="@+id/Bm"
+        android:title="B-" />
+    <item
+        android:id="@+id/ABp"
+        android:title="AB+" />
+
+    <item
+        android:id="@+id/ABm"
+        android:title="AB-" />
+
+    <item
+        android:id="@+id/Op"
+        android:title="O+" />
+
+    <item
+        android:id="@+id/Om"
+        android:title="O-" />
+
+</menu>

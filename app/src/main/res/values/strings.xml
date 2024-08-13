@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Donor Quest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Division">Choose Division</string>
+    <string name="BloodGroup">Blood Group</string>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+
+    </array>
+
+    <string-array name="division_list">
+        <item>King Fahd Hospital</item>
+        <item>Dr. Sulaiman Al Habib Hospital</item>
+        <item>Johns Hopkins Aramco Healthcare</item>
+        <item>Hospital D - Closed</item>
+    </string-array>
+</resources>
